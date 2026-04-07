@@ -1,0 +1,11 @@
+Briefing do Cliente: Sistema "Corte & Barba Pro"
+
+Olá, Preciso de um sistema para organizar minha barbearia. Hoje está uma bagunça e perco muitos agendamentos.
+
+Para começar, preciso cadastrar meus clientes. Quero o nome deles, o telefone e o e-mail, mas atenção: dois clientes nunca podem ter o mesmo e-mail no sistema. Também quero saber a data exata em que eles se cadastraram conosco para dar brindes no futuro.
+
+Tenho vários barbeiros trabalhando comigo. Preciso do nome deles e do CPF. O CPF é sagrado: tem que ter os 11 dígitos e não pode repetir de jeito nenhum.
+
+Meus serviços são divididos por categorias (como 'Cabelo', 'Barba' ou 'Estética'). Cada serviço específico (ex: 'Degradê', 'Barba Terapia') pertence a uma dessas categorias e tem um preço fixo. Ah, e o sistema não pode permitir que eu cadastre um serviço com preço negativo, senão eu quebro!
+
+Por fim, o coração do sistema: o agendamento. Preciso marcar o dia e a hora, saber qual cliente será atendido, por qual barbeiro e qual serviço será feito. No final do atendimento, quero registrar o valor que o cliente realmente pagou (pois às vezes dou um desconto). Se eu tentar marcar um atendimento para um cliente que não existe, o banco tem que me dar um erro na hora!
